@@ -1,0 +1,412 @@
+body{
+    width: 1520px;
+    background-color: #ffeee1;
+}
+/* ------------------ title ------------------ */
+h1{
+    text-align: center;
+    color: #7e2b05;
+}
+/* ------------------ /title ------------------ */
+/* ------------------ line ------------------ */
+.line{
+    width: 345px;
+    overflow: auto;
+    margin: -30px auto;
+}
+.line-1{
+    width: 50px;
+    height: 3px;
+    float: left;
+    border-radius: 50%;
+    margin: 35px 5px;
+    background-color: #774c26;
+}
+.line-1-title{
+    float: left;
+    color: #d04d10;
+}
+/* ------------------ /line ------------------ */
+/* ------------------ products ------------------ */
+.products{
+    overflow: auto;
+}
+/* ------------------ Product-shape ------------------ */
+.Product-shape{
+    width: 250px;
+    height: 250px;
+    background-color: #fcaf21;
+    border-radius: 50%;
+    margin: 40px 300px;
+    border: 0.5px solid black;
+    float: left;
+}
+/* ------------------ Sprinkles ------------------ */
+.Sprinkles-1{
+    width: 5px;
+    height: 15px;
+    background-color: blue;
+    margin-left: 100px;
+    border-radius: 35%;
+}
+.Sprinkles-2{
+    width: 15px;
+    height: 5px;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-left: 60px;
+    border-radius: 35%;
+}
+.Sprinkles-3{
+    width: 15px;
+    height: 5px;
+    background-color: red;
+    margin-top: 5px;
+    margin-left: 140px;
+    border-radius: 35%;
+}
+.Sprinkles-4{
+    width: 15px;
+    height: 5px;
+    background-color: aqua;
+    margin-top: 5px;
+    margin-left: 90px;
+    border-radius: 35%;
+}
+.Sprinkles-5{
+    width: 5px;
+    height: 15px;
+    background-color: red;
+    margin-top: 5px;
+    margin-left: 200px;
+    border-radius: 35%;
+}
+.Sprinkles-6{
+    width: 15px;
+    height: 5px;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-left: 140px;
+    border-radius: 35%;
+}
+.Sprinkles-7{
+    width: 5px;
+    height: 15px;
+    background-color: aqua;
+    margin-left: 70px;
+    border-radius: 35%;
+}
+.Sprinkles-8{
+    width: 15px;
+    height: 5px;
+    background-color: blue;
+    margin-top: 5px;
+    margin-left: 50px;
+    border-radius: 35%;
+}
+/* ------------------ all-Miniature-Product-shape ------------------ */
+.all-Miniature-Product-shape{
+    overflow: auto;
+}
+.Mini-sprinkles-1{
+    width: 15px;
+    height: 5px;
+    border-radius: 35%;
+    background-color: yellow;
+    float: left;
+    margin: 15px auto auto 18.75px;
+}
+.Mini-sprinkles-2{
+    width: 5px;
+    height: 15px;
+    border-radius: 35%;
+    background-color: red;
+    float: left;
+    margin: 15px auto auto 33px;
+}
+.Miniature-Product-shape{
+    width: 50px;
+    height: 50px;
+    background-color: #ffeee1;
+    border-radius: 50%;
+    border: 0.5px solid black;
+    margin-left: 28.5px;
+    float: left;
+}
+.Mini-sprinkles-3{
+    width: 15px;
+    height: 5px;
+    border-radius: 35%;
+    background-color: aqua;
+    float: left;
+    margin: 15px auto auto 18.75px;
+}
+.Mini-sprinkles-4{
+    width: 5px;
+    height: 15px;
+    border-radius: 35%;
+    background-color: blue;
+    float: left;
+    margin: 15px auto auto 33px;
+}
+/* ------------------ /all-Miniature-Product-shape ------------------ */
+.Sprinkles-9{
+    width: 5px;
+    height: 15px;
+    background-color: blue;
+    margin-left: 120px;
+    border-radius: 35%;
+}
+.Sprinkles-10{
+    width: 15px;
+    height: 5px;
+    background-color: aqua;
+    margin-bottom: 5px;
+    margin-left: 145px;
+    border-radius: 35%;
+}
+.Sprinkles-11{
+    width: 15px;
+    height: 5px;
+    background-color: red;
+    margin-bottom: 5px;
+    margin-left: 60px;
+    border-radius: 35%;
+}
+.Sprinkles-12{
+    width: 15px;
+    height: 5px;
+    background-color: aqua;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    border-radius: 35%;
+}
+.Sprinkles-13{
+    width: 5px;
+    height: 15px;
+    background-color: yellow;
+    margin-bottom: 5px;
+    margin-left: 200px;
+    border-radius: 35%;
+}
+.Sprinkles-14{
+    width: 15px;
+    height: 5px;
+    background-color: yellow;
+    margin-bottom: 5px;
+    margin-left: 110px;
+    border-radius: 35%;
+}
+.Sprinkles-15{
+    width: 5px;
+    height: 15px;
+    background-color: blue;
+    margin-left: 80px;
+    border-radius: 35%;
+}
+.Sprinkles-16{
+    width: 15px;
+    height: 5px;
+    background-color: red;
+    margin-bottom: 5px;
+    margin-left: 140px;
+    border-radius: 35%;
+}
+/* ------------------ /Sprinkles ------------------ */
+/* ------------------ /Product-shape ------------------ */
+.Pragraph{
+    width: 400px;
+    float: left;
+    color: #774c26;
+    margin-top: 90px;
+}
+/* ------------------ /products ------------------ */
+/* ------------------ Products-offered ------------------ */
+.Products-offered{
+    overflow: auto;
+    text-align: center;
+}
+/* ------------------ /all-First-product ------------------ */
+/* ------------------ all-product ------------------ */
+.all-First-product{
+    width: 310px;
+    height: 310px;
+    float: left;
+    margin-left: 250px;
+    border: 3px solid #582006;
+    border-radius: 50%;
+    background-color: #fde3cd;
+}
+.all-Second-product{
+    width: 310px;
+    height: 310px;
+    float: left;
+    margin: auto 45px;
+    border: 3px solid #582006;
+    border-radius: 50%;
+    background-color: #fde3cd;
+}
+.all-Third-product{
+    width: 310px;
+    height: 310px;
+    float: left;
+    border: 3px solid #582006;
+    border-radius: 50%;
+    background-color: #fde3cd;
+}
+/* ------------------ /all-product ------------------ */
+/* ------------------ product ------------------ */
+.First-product{
+    width: 300px;
+    height: 250px;
+}
+.Second-product{
+    width: 300px;
+    height: 250px;
+}
+.Third-product{
+    width: 300px;
+    height: 250px;
+}
+/* ------------------ /product ------------------ */
+/* ------------------ number ------------------ */
+.number{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #923206;
+    text-align: center;
+    margin-left: 140px;
+    margin-top: 5px;
+    color: #7a4618;
+    background-color: #ffeada;
+}
+/* ------------------ /number ------------------ */
+/* ------------------ donuts-offer-1 ------------------ */
+.all-donuts-offer{
+    overflow: auto;
+}
+.donuts-offer-1{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: #fcaf21;
+    margin-left: 5px;
+    float: left;
+    border: 0.5px solid black;
+}
+.title-product{
+    color: #7e2b05;
+}
+/* ------------------------------------------------------ plus ------------------------------------------------------ */
+.plus{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    color: #7e2b05;
+}
+/* ------------------------------------------------------ /plus ------------------------------------------------------ */
+/* ------------------------------------------------------ donuts ------------------------------------------------------ */
+.Sprinkles-donuts-offer-1--1{
+    width: 10px;
+    height: 3px;
+    border-radius: 35%;
+    background-color: red;
+    margin-left: 40px;
+}
+.Sprinkles-donuts-offer-1--2{
+    width: 3px;
+    height: 10px;
+    border-radius: 35%;
+    background-color: blue;
+    margin-left: 20px;
+    margin-top: 11px;
+}
+/* ------------------ all-mini-donuts-offer-1 ------------------ */
+.all-mini-donuts-offer-1{
+    overflow: auto;
+    margin-top: 11px;
+}
+.donuts-offer-1--1{
+    width: 10px;
+    height: 3px;
+    border-radius: 35%;
+    background-color: red;
+    float: left;
+    margin-left: 12.5px;
+    margin-top: 8.5px;
+}
+.mini-donuts-offer-1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fde3cd;
+    float: left;
+    margin-left: 12.5px;
+    border: 0.5px solid black;
+}
+.donuts-offer-1--2{
+    width: 3px;
+    height: 10px;
+    border-radius: 35%;
+    background-color: blue;
+    float: left;
+    margin-left: 16px;
+    margin-top: 5px;
+}
+/* ------------------ /all-mini-donuts-offer-1 ------------------ */
+.Sprinkles-donuts-offer-1--3{
+    width: 10px;
+    height: 3px;
+    border-radius: 35%;
+    background-color: yellow;
+    margin-top: 11px;
+    margin-left: 70px;
+}
+.Sprinkles-donuts-offer-1--4{
+    width: 3px;
+    height: 10px;
+    border-radius: 35%;
+    background-color: green;
+    margin-top: 7px;
+    margin-left: 33px;
+}
+/* ------------------------------------------------------ /donuts ------------------------------------------------------ */
+/* ------------------ /donuts-offer-1 ------------------ */
+/* ------------------------------------------------------ simit ------------------------------------------------------ */
+.simit{
+    width: 3px;
+    height: 90px;
+    background-color: #feaa0c;
+    float: left;
+    margin-left: 4px;
+    margin-top: -30px;
+    border: 0.5px solid black;
+    border-radius: 35%;
+}
+/* ------------------------------------------------------ /simit ------------------------------------------------------ */
+.Offer-details{
+    height: 40px;
+    color: #774c26;
+}
+.Offer-1{
+    margin-top: 30px;
+    color: #59391c;
+}
+/* ------------------ button ------------------ */
+button{
+    width: 150px;
+    height: 30px;
+    color: #774c26;
+    background-color: #fed1ac;
+    border: 3px solid #923206;
+    border-radius: 15px;
+    cursor: pointer;
+}
+/* ------------------ /button ------------------ */
+/* ------------------ /button ------------------ */
+button:hover{
+    background-color: #febd77;
+}
+/* ------------------ /button ------------------ */
+/* ------------------ /Products-offered ------------------ */
